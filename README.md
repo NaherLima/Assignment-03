@@ -10,4 +10,4 @@ This repository contains the final submission for all three assignments.
 - Notebook: [[Open notebook](./assignment2_sentiment_analysis.ipynb)](https://github.com/NaherLima/Assignment-03/blob/main/Sentiment_Analysis2.ipynb)
 
 ## Assignment 03 — Time-Series Forecasting of CO(GT) and NO2(GT)
-[- Notebook: [Open notebook](./assignment3_time_series_forecasting.ipynb)](https://github.com/NaherLima/Assignment-03/blob/main/time_series_forecasting%20(1).ipynb)
+- Notebook: [Open notebook](https://github.com/NaherLima/Assignment-03/blob/main/time_series_forecasting%20%281%29.ipynb)
